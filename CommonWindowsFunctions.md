@@ -309,3 +309,5 @@
 * SFC / VERIFYFILE = "name and file path": Scans only the file specified
 * SFC / scanonce: scans the system files on the next restart
 * SFC / REVERT: return the initial configuration (For more information, type SFC /? In the command prompt CMD.
+
+src: https://gist.github.com/gabe31415/fe2a7bd7213739b2bc407ecf0e100f9a
